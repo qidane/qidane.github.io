@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/qidane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.qidane.com
+  * I am qidane (https://keybase.io/qidane) on keybase.
+  * I have a public key with fingerprint 9617 8B63 9D5D 837A 59EE  C583 76F3 8678 E4F3 9473
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "96178b639d5d837a59eec58376f38678e4f39473",
+            "host": "keybase.io",
+            "key_id": "76F38678E4F39473",
+            "uid": "8498cdd7ea5c872914cc7e787498d900",
+            "username": "qidane"
+        },
+        "merkle_root": {
+            "ctime": 1411728040,
+            "hash": "90f1e942cd7fb77abee42413a94df810cf9cbbc34cf71277d6a8194f09bb471c9722f8dcc5eb6e7ae168551a1a8cb1674577157bfba2d39ad485473fe4caa8c7",
+            "seqno": 62402
+        },
+        "service": {
+            "hostname": "www.qidane.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411728148,
+    "expire_in": 157680000,
+    "prev": "71474fb88873de6cff2c13845138f9d85dc8fb7725385b93171aa3db891018a7",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFVkn9MVWUYxy8QDq4CVtg1h+NypmlKl/OeX+97boaFpqRlVCBLSDrnPe+Bg3DP
+5dwrP0IU5ixr3SFOTUQJaQwZAU3YKFJsygIHGTnT/F2mhuBwS8FZ0zoHcdP3j3fv
+j8/zfZ/v87zbIkJswUGFtz8uvnp7hy+o/4ZsS527JLqUknWlhHKXUjhPIx6/tfJI
++YRyU+tIiSz5iEvTnR5dIa5cn3OSiacKieHTdI9J0S7oYqiyeAu3glXNk00Mr6FZ
+WpQoAIhkgRUVXkEslHiREMybK0FlkQAR4VRW5CBrSuboPv8Tr1ITmlmaYp5CYdkE
+/zq37BG/fuICcSLCigKJxGMEGRFwGEMCETTPFZGmLdBHjElLBZoieYiVbT4x1uWR
+LEPXJyxjv2YBgAMAMojmaDMfyZdjOaBVQESOwQpUZQglmRCO4QAriZyiIkBjVcSy
+jFkOqxAwECqChIDIqbQoyxwEWIQMoyIFY57IAoESAQLieSABCWEZCJDjIQQ8lFVZ
+YhRWlBQO8aZBlXBYMhFoGvCRAo9OuQWGo5kya2sUaphYaVs1m7RWVFTkemjPhfV8
+M8pr6H4d63nmXY7f73Vbrv0l3gmWyFm+locyWbLmUcyePd5UYKJPVgRwKJ4ixV7N
+IFmaRfBQQLQ5rHdIodUhwEFOlRFCkFWIgFWVwYBFHG9OqqggXsHIKiDDs4iXRRZA
+IEmsIiMR0ABJj/kEpqhfyjY1fVq2R/KvN8yOfRoc85QtKNg2JTTY+rY2e/j0R385
+7EjUfxlf7diTj3af7F7adXf3ymmjTfbhg7Mqf+7dcOGY4nrr6E+1f0+TFzxzpeeB
+HBUbcWpX+hvt86vT7e1rHFQtvFfZXDr2+weDPTN2jQxuKE4m3tqF05ltIcN3nB3n
+Z/SOH3FKYX2nM1fXtdBPHy3ad23r8pxSx/XLo7buiKiKj/6KuB47b6nQlnzvUEZE
+cxwO74hMqW56blbrr76O4T/ubjr3vdF/cWjRSHFG1RLvj69m4MDG1PFN3pAXv2Vq
+7PfX186zNb1ztqyTfnO7s9MdeSBtpGCQK3136w/G+c+CL5YlNg7Xzv7yn8Nn85w1
+/b8N14xdcCTdoQ9/0zt9fvbsKvbMii76UqKTuE9XLrgZNNbCxAupCWMrs1aDhhmO
+6LT6/JlDVzIzK281tw/1bfkz/XZoUOuFnrjDy9u6izMcx/W2Q5f9CWfmbvXmbFz8
+Xn54ZO7+dTEnps5cdbws+DWj/KUh+dz9lISG7jXlD9w1yYuqr8d+veLm2tzotWE3
+tuwphPdZlFH+SviqzdBW8XbZkqmLD3xoy6z77tbzuxI6k2Or9oYmJjX25XYcvDYY
++OTks/X7hG2JKVU7A42Bis21rQVzdpZol96/1NywY7+bGq8/9kIFZ+/xB36Jibm6
+yL/w8+zI1lDHhoa6gSn2vL0Bx8D49tbul7P3dAfS/u1K6vF+UTAvbfTUHBAyYJ8d
+d+LM2v8B
+=t/W9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/qidane
+
+==================================================================
